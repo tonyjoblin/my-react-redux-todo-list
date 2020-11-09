@@ -1,0 +1,6 @@
+.filter {
+}
+
+.filter--active {
+  text-decoration: underline;
+}
